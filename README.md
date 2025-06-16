@@ -1,7 +1,4 @@
 <h1 align="center">hey, i'm paul</h1>
-<p align="center">
-  <em>my code runs smoother than my thoughts.</em>  
-</p>
 
 <p align="center">
   <!-- Copy-paste in your Readme.md file -->
