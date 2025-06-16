@@ -33,9 +33,9 @@ some things i create are visual. others are invisible.
 ---
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/fi/e/e2/Did_You_Know_There%27s_a_Tunnel_Under_Ocean_blvd.jpeg" width="280" />
+  <img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/3967148/beach.0.gif" width="500" />
 </p>
-<p align="center"><em>"don’t forget me, like the tunnel under ocean blvd."</em></p>
+<p align="center"><em>caught up in my dreams and forgettin'</em></p>
 
 
 ### 📫 reach me
