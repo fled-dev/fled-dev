@@ -19,8 +19,6 @@
 
 high school student & founder  
 
-some things i create are visual. others are invisible.
-
 ---
 
 ### 🔭 what i'm building
